@@ -1,4 +1,4 @@
-# JavaScriptNearMe.com
+# javascriptnear.me
 
 A platform for discovering and managing JavaScript-related events in your area.
 
