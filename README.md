@@ -2,6 +2,10 @@
 
 A platform for discovering and managing JavaScript-related events in your area.
 
+## Live Demo
+
+[![YouTube](https://i.ytimg.com/an_webp/En_8r0JNhbY/mqdefault_6s.webp?du=3000&sqp=CJzepL8G&rs=AOn4CLDSjwkUazEZL_8sYfQaxWj-BhVmyg)](https://www.youtube.com/watch?v=En_8r0JNhbY)
+
 ## Project Structure
 
 The project is organized into frontend and backend directories:
